@@ -1,0 +1,5 @@
+= Nomadbeat Docs
+
+Welcome to the Nomadbeat documentation.
+
+
